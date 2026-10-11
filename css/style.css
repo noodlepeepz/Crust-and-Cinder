@@ -28,7 +28,16 @@ a {
 
 a:hover {
     text-decoration: none; 
-    color: #fd63bd;
+    color: #EA9F62;
+}
+
+.btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 20px;
+    background-color: #EA9F62;
+    box-shadow: 0 4px 8.6px 0 rgba(0, 0, 0, 0.2);
 }
 
 table {
