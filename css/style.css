@@ -13,7 +13,20 @@ nav {
     background: #fff;
 }
 
-ul.nav-links {
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+    text-align: center;
+}
+
+ul {
     display: flex;
     list-style: none;
     gap: 12px;
