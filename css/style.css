@@ -1,9 +1,18 @@
 nav {
-    Display: flex; 
+    display: flex; 
+    align-items: center;
+    gap: 20px;
+    background: #fff;
+    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.1);
 }
 
-ul{
+ul {
     display: flex;
     list-style: none;
     gap: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #000; 
 }
