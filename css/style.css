@@ -1,8 +1,16 @@
-nav {}
+nav {
+    Display: flex; 
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
 /* Body styling */
 body {
-  background: #713e94;
-  color: #fff;
+  background: #f0edf2;
+  color: #000000;
   font-family: Helvetica, Arial;
   font-size: 27px;
   font-weight: 300;
@@ -16,7 +24,7 @@ body {
 /* Heading Styles */
 h1 {
   font-size: 60px;
-  color: #fff;
+  color: #000000;
   text-align: center;
 }
 
