@@ -15,6 +15,12 @@ nav {
     padding: 10px 20px;
 }
 
+@media screen and (max-width: 825px) {
+    nav {
+       flex-direction: column;
+    }
+}
+
 nav ul {
     display: flex;
     list-style: none;
