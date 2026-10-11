@@ -1,9 +1,16 @@
+body {
+    font-family: "Bona Nova", serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
 nav {
     display: flex; 
     align-items: center;
     gap: 20px;
     background: #fff;
-    box-shadow: 0 4px 25px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 6px 25px rgba(0, 0, 0, 0.1);
 }
 
 ul {
