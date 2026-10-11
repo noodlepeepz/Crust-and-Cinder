@@ -26,7 +26,18 @@ a {
     text-align: center;
 }
 
+a:hover {
+    text-decoration: none; 
+    color: #fd63bd;
+}
+
 table {
     border-collapse: collapse;
     width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
 }
