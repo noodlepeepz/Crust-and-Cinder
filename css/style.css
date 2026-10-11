@@ -16,7 +16,7 @@ nav {
 ul {
     display: flex;
     list-style: none;
-    gap: 10px;
+    gap: 12px;
     text-align: center;
 }
 
@@ -28,7 +28,7 @@ a {
 
 a:hover {
     text-decoration: none; 
-    color: #EA9F62;
+    color: #9E6727;
 }
 
 .btn {
