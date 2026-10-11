@@ -34,10 +34,17 @@ a:hover {
 table {
     border-collapse: collapse;
     width: 100%;
+    text-align: center;
 }
 
 img {
     max-width: 100%;
     height: auto;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
     text-align: center;
 }
