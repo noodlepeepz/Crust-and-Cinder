@@ -18,12 +18,14 @@ nav ul {
     list-style: none;
     gap: 10px;
     text-align: center;
+    justify-content: center;
 }
 
 nav li {
     display: inline-block;
     margin-right: 20px;
     text-align: center;
+    justify-content: center;
 }
 
 ul {
